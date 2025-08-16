@@ -1,0 +1,5 @@
+config.toml
+dataset_locations.toml
+prepped_data/*
+wandb/*
+/__pycache__

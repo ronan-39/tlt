@@ -1,0 +1,2 @@
+# specify the directory that contains the Time Lapse Cranberry dataset, i.e.
+tlc_root = '~/Documents/Datasets/TLC_jpeg/
